@@ -41,9 +41,7 @@ Starting from: June 25, 2014
 * Real-time updating counter
 
 ## Usage
-access the website:
-```
-```
+access the website: https://caio-rb.github.io/has-ngnl-s2-released/
 
 ## ⚠️  Note
 
