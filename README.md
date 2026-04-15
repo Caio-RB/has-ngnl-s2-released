@@ -12,6 +12,8 @@ This project displays:
 * A live counter showing how much time has passed since the end of Season 1
 * Styled using a color palette inspired by the anime
 
+<img width="1366" height="768" alt="Screenshot 2026-04-15 at 15-48-19 NGNL Season 2" src="https://github.com/user-attachments/assets/229562d5-3386-41e8-b78b-50f439c244c7" />
+
 ## Counter
 
 The timer tracks:
