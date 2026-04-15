@@ -1,0 +1,1 @@
+# has-ngnl-s2-released
